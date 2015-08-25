@@ -4,7 +4,7 @@
 <h3>Что использовал:</h3>
 
 <ul>
-<li><a href="github.com/asvd/viewport" target="_blank">Viewport.js</a> - Viewport.js — инструмент, позволяющий создавать индикаторы прогресса чтения статьи. asvd.github.io/viewport</li>
+<li><a href="https://github.com/asvd/viewport" target="_blank">Viewport.js</a> - Viewport.js — инструмент, позволяющий создавать индикаторы прогресса чтения статьи. asvd.github.io/viewport</li>
 <li><a href="http://kenwheeler.github.io/slick/" target="_blank">slick</a> - Слайдер контента</li>
 <li><a href="https://connoratherton.com/loaders" target="_blank">Loaders.css</a> - Прелоадеры </li>
 <li><a href="https://markgoodyear.com/2013/01/scrollup-jquery-plugin/" target="_blank">slideUp</a> - Добавляет конопочку для слайда вверх</li>
